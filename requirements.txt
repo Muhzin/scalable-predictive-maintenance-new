@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+xgboost
+kafka-python
+matplotlib
+seaborn
+google-cloud
+jupyter
+
